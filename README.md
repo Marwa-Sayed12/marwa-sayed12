@@ -1,6 +1,5 @@
-![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)
-Hi there 👋
-I'm Marwa
+![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)  Hi there 👋  I'm Marwa
+
 
 <!--
 **Marwa-Sayed12/marwa-sayed12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
