@@ -1,5 +1,4 @@
-https://raw.githubusercontent.com/marwa-sayed12/marwa-sayed12/main/https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif?cid=790b7611pkz668t5dphlxonpf5b12lxajdh4gtqo73fk5opu&ep=v1_gifs_search&rid=giphy.gif&ct=g
-
+![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)
 Hi there 👋
 I'm Marwa
 
