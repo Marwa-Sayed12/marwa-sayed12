@@ -68,7 +68,7 @@
 </div>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/marwa-sayed12?cardType=github&theme=cobalt&preferLogin=false&Title=1385DD&Ring=137EDD&Text=13DDCA&Background=0B8CE312&Border=1C55DD15)](https://git.io/awesome-stats-card)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwa-sayed12&show_icons=true&locale=en&layout=compact" alt="marwa-sayed12" /></p>
+![marwa-sayed12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwa-sayed12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
