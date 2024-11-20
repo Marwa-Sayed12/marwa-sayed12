@@ -1,5 +1,5 @@
-![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)  
-Hi there 👋  I'm Marwa
+                                          ![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif) 
+                                                             Hi there 👋  I'm Marwa
 
 
 <!--
