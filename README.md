@@ -1,7 +1,7 @@
    ![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)
 
 
-<h5 align="center">I’m Marwa Sayed, a passionate Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.</h5>
+<h5 align="center" font-size="27px">I’m Marwa Sayed, a passionate Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.</h5>
 
 
 
