@@ -1,14 +1,33 @@
    ![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)
 
 
-I’m Marwa Sayed, a passionate Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.
+<h5 align="center">I’m Marwa Sayed, a passionate Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.</h5>
+
+###
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/marwa-sayed-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marwa-sayed-the-lessful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marwa-sayed-2b34b624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwa-sayed-2b34b624a/" height="30" width="40" /></a>
-<a href="https://discord.gg/marwa0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marwa0127" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/marwa-sayed-2b34b624a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/marwa0127" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://codepen.io/https://codepen.io/marwa-sayed-the-lessful" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="marwasayed309@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="marwasayed309@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+  <a href="marwasayed309@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+</div>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
