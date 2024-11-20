@@ -1,4 +1,4 @@
-   ![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNsW0A61XjROxVqc82VLF3_0szTLpm-w32w&s)
+   ![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)
                                                              Hi there 👋  I'm Marwa
 
 
