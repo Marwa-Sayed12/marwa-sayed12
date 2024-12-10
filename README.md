@@ -1,4 +1,5 @@
-<!--   ![Giphy](https://media.giphy.com/media/fC6BAcnLFF2o/giphy.gif)-->
+
+![large-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cd78ffb7-ee49-46fd-b8e0-2226b9893b15)
 
  
 <h5 align="center" font-size="27px">I’m Marwa Sayed, a passionate Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.</h5>
