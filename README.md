@@ -114,10 +114,9 @@ Here are some ideas to get you started:
      SQL and Databases Bootcamp
      PostgreSQL, MySQL
      
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
      She/Her
-     Engineer
-     Developer
+     
      
 
 <!--
