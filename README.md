@@ -1,6 +1,5 @@
-  
-![2222](https://github.com/user-attachments/assets/b157cf1d-51dc-44c5-94fe-554ecb9db5b9)
 
+![Polish_20250101_102507760](https://github.com/user-attachments/assets/cca9f57b-7dd7-4a1e-9b38-f4a5b9ea8134)
 
   
 
