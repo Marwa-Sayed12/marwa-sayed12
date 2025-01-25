@@ -3,7 +3,7 @@
 
   
 
-<h5 align="center" font-size="27px">I’m Marwa Sayed, a passionate Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.</h5>
+<h5 align="center" font-size="30px">I’m Marwa Sayed, a Full Stack Web Developer with a love for creating dynamic and responsive web applications. I am skilled in both front-end and back-end technologies, working on diverse projects that help businesses and individuals thrive in the digital world.</h5>
 
 
 
@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="marwasayed309@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+    
   </a>
   <a href="marwasayed309@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
