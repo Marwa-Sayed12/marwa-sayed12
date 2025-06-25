@@ -101,9 +101,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-     My Personal Portfolio Project
-     Mern Stack Blog Project
-     Node Natours Project
+     FamilyFinance Dashboard project an ERP System. Tribute Project and Gurbat's Website 
      
 - 🌱 I’m currently learning ...
      SQL and Databases Bootcamp
