@@ -96,21 +96,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
 </div>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-     FamilyFinance Dashboard project an ERP System. Tribute Project and Gurbat's Website 
-     
-- 🌱 I’m currently learning ...
-     SQL and Databases Bootcamp
-     PostgreSQL, MySQL
-     
-- 😄 Pronouns: ... 
-     She/Her
-     
-     
+   
 
 <!--
 - 👯 I’m looking to collaborate on ...
